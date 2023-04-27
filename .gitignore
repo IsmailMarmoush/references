@@ -1,0 +1,26 @@
+*.class
+*.log
+
+####### SBT
+bin
+target
+.lib
+.history
+
+project/*
+!project/plugins.sbt
+!project/build.properties
+!project/ReactiveBuild.scala
+
+####### Eclipse Related
+.classpath
+.settings
+.project
+
+.cache-main
+.cache
+.scala_dependencies
+.worksheet
+
+.idea/
+*.iml
