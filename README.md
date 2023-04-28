@@ -1,6 +1,10 @@
 # references
 
-A humble collection of references over the past few years.
+This is similar to AWESOME-xyz repositories, it's a humble collection of references and some commentary and
+summarization, this has been collected over past years and hopefully will be improved in the future.
+
+Please note, some comments or urls might be out of date, feel free to correct them with a PR.
+
 
 
 > هذا العلم والعمل وقف للّه تعالي اسأل اللّه ان يرزقنا الاخلاص فالقول والعمل
