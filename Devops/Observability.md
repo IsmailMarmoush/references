@@ -7,6 +7,20 @@
 * [Tom Gregory YouTube: The 4 Types Of Prometheus Metrics](https://www.youtube.com/watch?v=nJMRmhbY5hY)
 * [Tom Gregory Article](https://tomgregory.com/the-four-types-of-prometheus-metrics/)
 * https://prometheus.io/docs/practices/histograms/
+* https://www.youtube.com/watch?v=SYO-LmA647E
+
+# METL
+
+* Metrics, Events, Traces and Logs
+
+# 1.0 Metrics
+
+* System Metrics (CPU, Memory, Disk)
+* Infrastructure metrics (e.g AWS cloudwatch)
+* Web tracking scripts (e.g Google Analytics)
+* Application metrics (APM, Error tracking)
+* Business metrics(e.g customer signups)
+* Consist of (Timestamp, Name, Value, Dimensions)
 
 ## Counters
 
@@ -67,3 +81,11 @@
     * `rate(<metric_name>_sum[5m])/rate(<metric_name>_count[5m])`
     * `request_duration_summary{quantile="0.95"}`
 
+
+## 2.0 Logs
+
+* Plain text, Structured, binary
+* System & server logs (syslog)
+* Fireware & network system logs
+* Application (log4j)
+* Platform & server logs (apache, nginx, databases)
