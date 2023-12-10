@@ -8,6 +8,8 @@
 * [Tom Gregory Article](https://tomgregory.com/the-four-types-of-prometheus-metrics/)
 * https://prometheus.io/docs/practices/histograms/
 * https://www.youtube.com/watch?v=SYO-LmA647E
+* [Server Monitoring // Prometheus and Grafana Tutorial](https://www.youtube.com/watch?v=9TJx7QTrTyo)
+* [Micrometer and Grafana time unit conversion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaUnixEpochTime)
 
 # METL
 

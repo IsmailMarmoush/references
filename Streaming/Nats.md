@@ -3,6 +3,11 @@
 * [Nats Intro, Message Delivery Patterns](https://youtu.be/SLb4rdI5lIM?t=11m15s)
 * [NATS Intro – Colin Sullivan & Waldemar Quevedo, Synadia](https://www.youtube.com/watch?v=Y9bDY_oE80w)
 
+## Subscriptions
+
+* [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/)
+* [https://nats.io/blog/jetstream-java-client-04-push-subscribe/](https://nats.io/blog/jetstream-java-client-04-push-subscribe/)
+
 ## DNA
 
 * Performance and Scalability
