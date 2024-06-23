@@ -30,9 +30,7 @@
 
 * [Monitor Java JMX](https://www.lullabot.com/articles/monitor-java-with-jmx)
 
-## Security
 
-* https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers
 
 ## Encryption
 
