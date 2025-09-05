@@ -99,6 +99,7 @@
 * [Ibrahim haddad](https://github.com/ibrahimhaddad)
     * https://www.ibrahimatlinux.com/papers.html
     * https://www.ibrahimatlinux.com/talks.html
+* https://www.imperialviolet.org/posts-index.html
 
 ## Scala People and Blogs
 
